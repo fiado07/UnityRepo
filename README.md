@@ -11,9 +11,11 @@ This UnityRepo is a UnityOfWork package gives a lite way to interact with sql se
 The UnityRepo supports only sql server database.
 
 
+
+
 ## Archtecture
 
-<img src="\\Gifs\Archtecture.gif" width="400px" />
+<img src="\\Gifs\Archtecture.gif" width="400px" align="middle" />
 
 #### Project Structure
 
