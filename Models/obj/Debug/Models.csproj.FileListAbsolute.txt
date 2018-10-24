@@ -1,0 +1,10 @@
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\bin\Debug\Models.dll.config
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\bin\Debug\Models.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\bin\Debug\Models.pdb
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\bin\Debug\EntityFramework.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\bin\Debug\EntityFramework.xml
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\obj\Debug\Models.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\Models\obj\Debug\Models.pdb

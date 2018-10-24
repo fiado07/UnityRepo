@@ -12,23 +12,23 @@ The UnityRepo supports only sql server database.
 
 #### Archtecture
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\Archtecture.gif" style="width:300px" />
+<img src="\\Gifs\Archtecture.gif" style="width:300px" />
 
 #### Project Structure
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\Project Structure.png" style="width:300px" />
+<img src="\\Gifs\Project Structure.png" style="width:300px" />
 
 #### Add References
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\New version\Add References.gif" style="width:800px" />
+<img src="\\Gifs\Add References.gif" style="width:800px" />
 
 #### Add Context
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\New version\Add Context.gif" style="width:800px" />
+<img src="\\Gifs\Add Context.gif" style="width:800px" />
 
 #### Add Context Configuration
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\New version\Add Context Config.gif" style="width:800%" />
+<img src="\\Gifs\Add Context Config.gif" style="width:800%" />
 
 #### Context configuration
 
@@ -56,19 +56,19 @@ After create a EDMX file context, must be created a context partial class to hol
 
 #### Define Connection
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\New version\Add Context Connection.gif" style="width:800%" />
+<img src="\\Gifs\Add Context Connection.gif" style="width:800%" />
 
 #### Extract Context Models from EDMX
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\New version\Add Context Models.gif" style="width:800%" />
+<img src="\\Gifs\Add Context Models.gif" style="width:800%" />
 
 #### Add UnityRepo To BLL
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\New version\Add UnityRepo.gif" style="width:800%" />
+<img src="\\Gifs\Add UnityRepo.gif" style="width:800%" />
 
 #### Unity of work Initializer 
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\New version\Add UnityRepo Initializer.gif" style="width:800%" />
+<img src="\\Gifs\Add UnityRepo Initializer.gif" style="width:800%" />
 
 For N-Layered project you don't need to add this **UnityRepo** reference to the main project anymore, just add **UnityRepoContracts**(https://www.nuget.org/packages/UnityRepoContracts/) nuget reference to the main project.
 
@@ -87,11 +87,11 @@ For N-Layered project you don't need to add this **UnityRepo** reference to the 
 
 #### Add Repository Base to project 
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\New version\Add UnityRepo RepoBase.gif" style="width:800%" />
+<img src="\\Gifs\Add UnityRepo RepoBase.gif" style="width:800%" />
 
 #### Add **UnityRepoContracts** to UI
 
-<img src="C:\Users\x120801\Desktop\Demo Repo\New version\Add UnityRepo Contracts.gif" style="width:800%" />
+<img src="\\Gifs\Add UnityRepo Contracts.gif" style="width:800%" />
 
 #### Unity of work by examples
 

@@ -1,0 +1,12 @@
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\bin\Debug\DAL.dll.config
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\bin\Debug\DAL.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\bin\Debug\DAL.pdb
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\bin\Debug\EntityFramework.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\bin\Debug\Models.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\bin\Debug\Models.pdb
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\bin\Debug\EntityFramework.xml
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\obj\Debug\DAL.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\DAL\obj\Debug\DAL.pdb

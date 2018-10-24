@@ -1,0 +1,17 @@
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\BLL.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\BLL.pdb
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\DAL.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\Models.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\UnityRepo.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\UnityRepoContracts.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\EntityFramework.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\DAL.pdb
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\Models.pdb
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\UnityRepo.pdb
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\UnityRepoContracts.pdb
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\EntityFramework.xml
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\obj\Debug\BLL.dll
+C:\Users\x120801\Documents\Visual Studio 2015\Projects\ConsoleAppUnityTest\BLL\obj\Debug\BLL.pdb
