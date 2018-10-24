@@ -13,7 +13,7 @@ The UnityRepo supports only sql server database.
 
 #### Archtecture
 
-<img src="\\Gifs\Archtecture.gif" style="width:200px" />
+<img src="\\Gifs\Archtecture.gif" style="zoom:50%" />
 
 #### Project Structure
 
